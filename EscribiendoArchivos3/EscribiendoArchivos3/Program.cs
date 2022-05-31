@@ -16,16 +16,17 @@ namespace EscribiendoArchivos3
             //Si el archivo no existe lo crea
             //Si ya existe, escribira en el
 
-            string[] line =
-            {
-                "Esta es la informacion de la primera linea",
-                "Esta es la segunda linea",
-                "Fin del texto"
-            };
+            string[] lines = new string[2];
 
-            foreach (string s in line)
+            Console.Write("Introduce tu(s) nombre(s): ");
+            lines[0] = Console.ReadLine();
+
+            Console.Write("Introduce tu(s) apellido(s): ");
+            lines[1] = Console.ReadLine();
+
+            foreach (string line in lines)
             {
-                sw.WriteLine(s);
+                sw.WriteLine(line);
             }
             sw.Close(); //Cierre del archivo, se debe de hacer
 
