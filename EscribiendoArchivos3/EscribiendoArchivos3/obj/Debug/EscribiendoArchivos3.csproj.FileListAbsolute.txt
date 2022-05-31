@@ -1,0 +1,8 @@
+C:\Users\Hp\Desktop\Clases\P.O.O\Practricas\EscribiendoArchivos3\EscribiendoArchivos3\bin\Debug\EscribiendoArchivos3.exe.config
+C:\Users\Hp\Desktop\Clases\P.O.O\Practricas\EscribiendoArchivos3\EscribiendoArchivos3\bin\Debug\EscribiendoArchivos3.exe
+C:\Users\Hp\Desktop\Clases\P.O.O\Practricas\EscribiendoArchivos3\EscribiendoArchivos3\bin\Debug\EscribiendoArchivos3.pdb
+C:\Users\Hp\Desktop\Clases\P.O.O\Practricas\EscribiendoArchivos3\EscribiendoArchivos3\obj\Debug\EscribiendoArchivos3.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Clases\P.O.O\Practricas\EscribiendoArchivos3\EscribiendoArchivos3\obj\Debug\EscribiendoArchivos3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\Desktop\Clases\P.O.O\Practricas\EscribiendoArchivos3\EscribiendoArchivos3\obj\Debug\EscribiendoArchivos3.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Clases\P.O.O\Practricas\EscribiendoArchivos3\EscribiendoArchivos3\obj\Debug\EscribiendoArchivos3.exe
+C:\Users\Hp\Desktop\Clases\P.O.O\Practricas\EscribiendoArchivos3\EscribiendoArchivos3\obj\Debug\EscribiendoArchivos3.pdb
