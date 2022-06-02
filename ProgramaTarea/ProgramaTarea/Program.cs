@@ -69,7 +69,7 @@ namespace ProgramaTarea
             int sueldo = t1.CalcularSueldo(horas, CuantoHora);
             t1.DesplegarDatos(sueldo);
 
-            sw.WriteLine(t1.nombre + " " + t1.edad + " " + t1.profesion);
+            sw.WriteLine(t1.nombre + " " + t1.edad + " " + t1.profesion + " {0:c}",sueldo);
             sw.Close();
 
             Console.WriteLine("Escribiendo archivo....");
