@@ -1,0 +1,8 @@
+C:\Users\Hp\Desktop\Clases\P.O.O\Practricas\ProgramaTarea\ProgramaTarea\bin\Debug\ProgramaTarea.exe.config
+C:\Users\Hp\Desktop\Clases\P.O.O\Practricas\ProgramaTarea\ProgramaTarea\bin\Debug\ProgramaTarea.exe
+C:\Users\Hp\Desktop\Clases\P.O.O\Practricas\ProgramaTarea\ProgramaTarea\bin\Debug\ProgramaTarea.pdb
+C:\Users\Hp\Desktop\Clases\P.O.O\Practricas\ProgramaTarea\ProgramaTarea\obj\Debug\ProgramaTarea.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Clases\P.O.O\Practricas\ProgramaTarea\ProgramaTarea\obj\Debug\ProgramaTarea.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\Desktop\Clases\P.O.O\Practricas\ProgramaTarea\ProgramaTarea\obj\Debug\ProgramaTarea.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Clases\P.O.O\Practricas\ProgramaTarea\ProgramaTarea\obj\Debug\ProgramaTarea.exe
+C:\Users\Hp\Desktop\Clases\P.O.O\Practricas\ProgramaTarea\ProgramaTarea\obj\Debug\ProgramaTarea.pdb
